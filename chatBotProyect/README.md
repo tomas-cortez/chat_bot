@@ -1,7 +1,7 @@
 # chatBotProject
-# This is a project about a simple chatbot oriented to give administrative/informative answers for a faculty.
-# (final.ipynb)
-# Reminders to improve the project:
+## This is a project about a simple chatbot oriented to give administrative/informative answers for a faculty.
+### (final.ipynb)
+#### Reminders to improve the project:
 1. Be able to connect to a database to store data and errors.
 2. Implement a more advanced search in the search logics.
 3. Add a conversational module to make it more didactic.
